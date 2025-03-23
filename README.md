@@ -1,0 +1,1 @@
+# Piotroski-F-Score-Strategy-Backtest
